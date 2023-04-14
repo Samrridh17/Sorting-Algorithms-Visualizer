@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Sorting-Algorithms-Visualizer
 # Sorting-Algorithms-Visualizer
 # Sorting-Algorithms-Visualizer
+# Sorting-Algorithm-Visualizer
